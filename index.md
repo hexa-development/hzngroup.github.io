@@ -1,5 +1,5 @@
 ## Welcome to Horizon
 
-**Site coming soon!**
+**Site will be stuffified soon!**
 
 [*To our GitHub organization:*](https://github.com/hzngroup/)
